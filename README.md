@@ -4,7 +4,7 @@
 
 I build the pipelines, stores and checks that research and trading teams run on. Five years on energy and commodity market data at Bloomberg and Wood Mackenzie: sourcing it, validating it before it loads, orchestrating the runs, and owning the models and client-facing datasets on top.
 
-Right now I take fractional data engineering work with early-stage teams, and I am open to the right full-time lead data engineering role.
+Right now I take fractional data engineering work with early-stage teams, and I am open to the right full-time lead data engineering/ CTO role.
 
 Delhi, India. Open to remote, hybrid and relocation.
 
